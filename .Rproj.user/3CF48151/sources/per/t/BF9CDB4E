@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535453233865.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1697502735",
+    "id" : "BF9CDB4E",
+    "lastKnownWriteTime" : 1539867891,
+    "last_content_update" : 1539867896957,
+    "path" : "~/My R Packages/AI Course/WobbiesWorld/R/maze.R",
+    "project_path" : "R/maze.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

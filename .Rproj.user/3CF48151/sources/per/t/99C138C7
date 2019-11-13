@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535453140962.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "176002112",
+    "id" : "99C138C7",
+    "lastKnownWriteTime" : 1571647681,
+    "last_content_update" : 1571647681368,
+    "path" : "~/My R Packages/AI Course/WobbiesWorld/R/wobbiesworld.R",
+    "project_path" : "R/wobbiesworld.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
